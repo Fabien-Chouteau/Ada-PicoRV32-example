@@ -1,0 +1,15 @@
+*.vcd
+*.vvp
+*.elf
+*.hex
+*.bin
+*.asc
+*.blif
+*.log
+*.rpt
+*.o
+*.stderr
+*.stdout
+*.ali
+b__*
+*.bexch
